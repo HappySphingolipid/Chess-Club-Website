@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to my website!
 
-You can use the [editor on GitHub](https://github.com/HappySphingolipid/automatic-octo-guacamole/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+My name is Remy and I am a rat with humble origins. You may know about me from one of my most famous moves: Ratatouille. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### My Resume
 
-### Markdown
+Below you will find some of my life achievements!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Link](url) and ![Image](src)
 
 ```markdown
 Syntax highlighted code block
