@@ -1,8 +1,16 @@
-## Welcome to my chess club's website!
+## Welcome to chess club's website!
 
 We are an inclusive club that supports all levels of expertise. Wether you are a novice or regularly play in tournaments there is a place for you at chess club. Before quarantine chess club used to meet almost everyday at lunch to just play and have fun. Even though we cannot do this anymore we are still hosting online tournaments. 
 
-### My Resume
+## Some Upcoming Activities 
+
+- Weekly tournaments on lichess.org 
+[Lichess](https://lichess.org/)
+- Online intra-school tournaments
+- We had our first 
+
+
+
 
 Below you will find some of my life achievements!
 
