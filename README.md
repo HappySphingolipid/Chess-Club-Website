@@ -6,7 +6,10 @@ My name is Remy and I am a rat with humble origins. You may know about me from o
 
 Below you will find some of my life achievements!
 
-[Link](url) and ![Image](src)
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+![resume](resume.jpg "created in canva!")
+
 
 ```markdown
 Syntax highlighted code block
