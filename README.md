@@ -1,15 +1,12 @@
-## Welcome to my website!
+## Welcome to my chess club's website!
 
-My name is Remy and I am a rat with humble origins. You may know about me from one of my most famous moves: Ratatouille. 
+We are an inclusive club that supports all levels of expertise. Wether you are a novice or regularly play in tournaments there is a place for you at chess club. Before quarantine chess club used to meet almost everyday at lunch to just play and have fun. Even though we cannot do this anymore we are still hosting online tournaments. 
 
 ### My Resume
 
 Below you will find some of my life achievements!
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-![resume](Remy's Resume.png "created in canva!")
-![My helpful screenshot](Resume.jpg)
+![My Resume](Resume.jpg)
 
 ```markdown
 
