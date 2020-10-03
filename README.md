@@ -1,5 +1,5 @@
 ## Welcome to chess club's website!
-![Picture](Resume.jpg)
+![Picture](IMG_4107.jpg)
 
 We are an inclusive club that supports all levels of expertise. Wether you are a novice or regularly play in tournaments there is a place for you at chess club. Before quarantine chess club used to meet almost everyday at lunch to just play and have fun. Even though we cannot do this anymore we are still hosting online tournaments. 
 
