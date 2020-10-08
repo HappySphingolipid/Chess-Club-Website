@@ -7,8 +7,7 @@ We are an inclusive club that supports all levels of expertise. Wether you are a
 - Weekly tournaments on 
 [Lichess.org](https://lichess.org/) with a leaderboard
 - Online intra-school tournaments (with schools like Sunny High and Oxford)
-- We had our first general meeting on 9/25/2020 
-- Stay tuned until then
+- We had our first general meeting on 9/25/2020 but stay tuned for the next one!
 
 ## How to Get Involved
 - join our google classroom - code: 7CCHC71
