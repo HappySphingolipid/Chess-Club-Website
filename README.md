@@ -1,7 +1,7 @@
 ## Welcome to chess club's website!
 ![chess](chess.jpg)
 
-We are an inclusive club that supports all levels of expertise. Wether you are a novice or regularly play in tournaments there is a place for you at chess club. Before quarantine chess club used to meet almost everyday at lunch to just play and have fun. Even though we cannot do this anymore we are still hosting online tournaments. 
+We are an inclusive club that supports all levels of expertise. Whether you are a novice or regularly play in tournaments there is a place for you at chess club. Before quarantine chess club used to meet almost everyday at lunch to just play and have fun. Even though we cannot do this anymore we are still hosting online tournaments. 
 
 ## Some Upcoming Activities 
 - Weekly tournaments on 
@@ -14,8 +14,7 @@ We are an inclusive club that supports all levels of expertise. Wether you are a
 - follow us on instagram - @whitney.chessclub
 - feel free to reach out to cabinet if you have any questions!
 
-One of our 
-![My Resume](Resume.jpg)
+
 
 ```markdown
 
